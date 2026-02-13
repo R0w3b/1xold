@@ -1,0 +1,33 @@
+blockquote{
+border-color: lightblue;
+}
+
+.hoverable{
+	cursor: pointer;
+}
+
+.advantage__item{
+	height: 148px;
+}
+
+.preloader-background {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(45,165,226,0.7);
+	
+	position: fixed;
+	z-index: 100;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;	
+}
+
+.staggered-test li {
+  opacity: 0;
+}
+
+.back-to-top{
+	display: none;
+}
