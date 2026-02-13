@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="ru">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="msapplication-tap-highlight" content="no">
+	<!-- Favicon -->
+	<link rel="icon" href="img/favicon.png" type="image/png" sizes="32x32">
+	<title>1xBet рабочее зеркало на сегодня</title>
+	<meta name="yandex-verification" content="c16cef8b433ab42f" />
+	<!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body onselectstart="return false" oncopy="return false">
+<script language='JavaScript'>
+if (window.Event)
+document.captureEvents(Event.MOUSEUP);
+ 
+function nocontextmenu() {
+event.cancelBubble = true, event.returnValue = false;
+ 
+return false;
+}
+ 
+function norightclick(e) {
+if (window.Event) {
+if (e.which == 2 || e.which == 3) return false;
+}
+else if (event.button == 2 || event.button == 3) {
+event.cancelBubble = true, event.returnValue = false;
+return false;
+}
+}
+ 
+if (document.layers)
+document.captureEvents(Event.MOUSEDOWN);
+ 
+document.oncontextmenu = nocontextmenu;
+document.onmousedown = norightclick;
+document.onmouseup = norightclick;
+</script>
+<!-- PHP Подключение импорта ссылки из файла -->
+<?php 
+$filelink = file_get_contents('https://1xbet.vercel.app/kod.txt');
+?>
+
+<!-- Прелоадер Circle Blue -->
+<div class="preloader-background">
+<div class="preloader-wrapper big active">
+    <div class="spinner-layer spinner-blue-only">
+      <div class="circle-clipper left">
+        <div class="circle"></div>
+      </div><div class="gap-patch">
+	     <div class="circle"></div>
+      </div><div class="circle-clipper right">
+        <div class="circle"></div>
+      </div>
+    </div>
+  </div>
+ </div>
+  
+ <!-- Навигация Navbar --> 
+	<nav class="blue darken-1">
+	<div class="container">
+    <div class="nav-wrapper">
+        <a href="/" class="truncate brand-logo center">1xBet зеркало</a>
+		<!-- Адаптивное меню. Раскомментировать при необходимости. В JS файле тоже закомментировано -->
+        <a href="#" data-activates="mobile-demo" class="button-collapse right"  id="nav-mobile"> <i class="material-icons">menu</i> </a>
+        <ul class="right hide-on-med-and-down">
+			<li class="waves-effect waves-light active"><a href="index.php">Главная</a></li>
+			<li class="waves-effect waves-light"><a href="#">Как играть</a></li>
+			<li class="waves-effect waves-light"><a href="#">Бонусы</a></li>
+			<li class="waves-effect waves-light"><a href="#">Правила</a></li>
+		</ul>
+		<ul class="side-nav" id="mobile-demo">
+			<li><a href="#">Главная</a></li>
+			<li><a href="#">Как играть</a></li>
+			<li><a href="#">Бонусы</a></li>
+			<li><a href="#">Правила</a></li>
+		</ul>
+    </div>
+	</div>
+  </nav>
+  <main class="container">
+		<div class="row">
+			<div class="col m8 l9 s12">
+				<h1 style="font-size:18px">1хБет зеркало официальный сайт</h1>
+					<img class="responsive-img materialboxed" data-caption="Официальный сайт 1xBet" src="img/2v/1.png">
+					<p>
+					<div class="center-align"><a class="waves-effect waves-light btn blue tooltipped" data-position="bottom" data-delay="50" data-tooltip="Переходя по данной ссылке вы подтверждаете, что вам исполнилось 18 лет и вы осознаёте возможные финансовые риски при игре на ставках." href="<?php global $filelink; echo $filelink ?>"><i class="material-icons left">launch</i> Перейти на зеркало 1xBet</a></div>
+					</p>
+					<p class="flow-text">
+					   Актуальное и рабочее зеркало 1xBet позволяет делать ставки на спорт без каких-либо проблем со стороны интернет-провайдера. Если вы уже зарегистрированы на официальном сайте 1xBet, то зеркало позволит вам продолжить игру под своим аккаунтом, не создавая новый. Если же у вас еще нет своего игрового аккаунта, то далее вы узнаете <b>как зарегистрироваться на сайте 1хБет</b>.
+					</p>
+					<div id="registration" class="section scrollspy">
+					<h5>Быстрая регистрация</h5>
+					<p>При выборе этого способа вам нужно лишь удостовериться в том, что выбрана нужная страна и валюта. <b>Логин и пароль</b> для входа в букмекерскую контору будут <b>сгенерированы автоматически</b>.</p>
+					<img class="responsive-img materialboxed" data-caption="Регистрация на 1xBet в 1 клик" src="img/reg1click.png">
+					<h5>С помощью электронной почты</h5>
+					<p>Это <b>расширенная форма регистрации</b>, которая потребует от вас:<p>
+					<ul class="browser-default">
+						<li>Адрес проживания</li>
+						<li>Фамилию и имя</li>
+						<li>Пароль</li>
+						<li>Почтовый адрес</li>
+						<li>Номер телефона для связи</li>
+					</ul>
+					<img class="responsive-img materialboxed" data-caption="Регистрация на 1xBet с помощью электронной почты" src="img/regmail.png">
+					<h5>По номеру телефона</h5>
+					<p>Здесь вам потребуется <b>только указать номер телефона</b>, на который СМС-сообщением вам <b>вышлют данные для входа</b> на сайт.<p>
+					<img class="responsive-img materialboxed" data-caption="Регистрация на 1xBet, используя номер телефона" src="img/regmobile.png">
+					<h5>Через социальные сети</h5>
+					<p>Этот метод позволяет вам привязать свой аккаунт на сайте к аккаунту одной из доступных соц. сетей и в дальнейшем использовать <b>аккаунт соц. сети для входа</b>. Этот процесс должен быть вам знаком, т.к. данный метод используется на большинстве популярных веб-сайтов ввиду своего удобства.<p>
+					<img class="responsive-img materialboxed" data-caption="Регистрация на 1xBet через социальные сети" src="img/regsocio.png">
+					<div class="center-align"><a class="waves-effect waves-light btn blue tooltipped pulse" data-position="bottom" data-delay="50" data-tooltip="Переходя по данной ссылке вы подтверждаете, что вам исполнилось 18 лет и вы осознаёте возможные финансовые риски при игре на ставках." href="<?php global $filelink; echo $filelink ?>"><i class="material-icons left">launch</i> Перейти на зеркало 1xBet</a></div>
+			</div>
+			<div class="divider"></div>
+			<div id="advantages" class="section scrollspy">
+				<h4>Преимущества 1xBet</h4>
+				<div class="row">
+					<div class="col s12 m6 l4 hoverable">
+						<div class="center promo">
+							<i class="material-icons large">access_time</i>
+							<p class="promo-caption">Скорость работы</p>
+							<p class="light center advantage__item">В первую очередь это можно понять по наличию Live-режима. Помимо этого, сам сайт моментально отображает все матчи, результаты по ним и другую информацию.</p>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 hoverable">
+						<div class="center promo">
+							<i class="material-icons large">android</i>
+							<p class="promo-caption">Поддержка устройств</p>
+							<p class="light center advantage__item">1xBet доступен на любых устройствах, будь то мобильный телефон, планшет, ноутбук или ПК.</p>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 hoverable">
+						<div class="center promo">
+							<i class="material-icons large">assessment</i>
+							<p class="promo-caption">Предоставление статистики</p>
+							<p class="light center advantage__item">1xBet предоставляет детальную статистику матчей и ставок, в том числе в виде графиков, что даёт возможность понять ситуацию и сделать правильную ставку.</p>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 hoverable">
+						<div class="center promo">
+							<i class="material-icons large">attach_money</i>
+							<p class="promo-caption"><a href="#ways">Способы оплаты</a></p>
+							<p class="light center advantage__item">Данная букмекерская контора позволяет пополнить счёт или вывести деньги любым удобным для вас способом, будь то электронный кошелёк, счёт мобильного телефона или банковская карта.</p>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 hoverable">
+						<div class="center promo">
+							<i class="material-icons large">call</i>
+							<p class="promo-caption">Отзывчивая тех. поддержка</p>
+							<p class="light center advantage__item">Тех. поддержка 1xBet поможет вам разрешить любое затруднение во время пользования сайтом. Они действуют оперативно и находятся онлайн в режиме 24/7</p>
+						</div>
+					</div>
+					<div class="col s12 m6 l4 hoverable">
+						<div class="center promo">
+							<i class="material-icons large">insert_emoticon</i>
+							<p class="promo-caption"><a href="#bonus">Бонус для новичков</a></p>
+							<p class="light center advantage__item">1xBet удваивает ваше первое пополнение после регистрации. Единственное ограничение здесь - сумма не должна превышать 5000 рублей. Это быстрый старт для новичков.</p>
+						</div>
+					</div>
+				</div>
+				<div class="center-align"><a class="waves-effect waves-light btn blue tooltipped pulse" data-position="bottom" data-delay="50" data-tooltip="Переходя по данной ссылке вы подтверждаете, что вам исполнилось 18 лет и вы осознаёте возможные финансовые риски при игре на ставках." href="<?php global $filelink; echo $filelink ?>"><i class="material-icons left">launch</i>  Перейти на зеркало 1xBet</a></div>
+			</div>
+			<div class="divider"></div>
+				<div id="rules" class="section scrollspy">
+					<h4>Правила регистрации</h4>
+					<p class="flow-text">
+					   <ul class="staggered-test browser-default">
+					   	  <li>
+							<p class="flow-text">необходимо достигнуть возраста совершеннолетия</p>
+						  </li>
+						  <li>
+							<p class="flow-text">в системе можно иметь только один игровой аккаунт</p>
+						  </li>
+						  <li>
+							<p class="flow-text">запрещено использовать различное ПО для автоматизации ставок</p>
+						  </li>
+						  <li>
+							<p class="flow-text">запрещено играть «вилками». Будут срезаны лимиты</p>
+						  </li>
+						</ul>
+					</p>
+					<p class="flow-text"><blockquote>Напоминаем вам, что и наш сайт запрешён для просмотра лицам не достигшим возраста совершеннолетия. Если вам не исполнилось 18 лет или вы не осознаёте риск финансовых потерь от ставок на игры, просим вас покинуть данный сайт.</blockquote></p>
+				</div>
+				<div class="center-align"><a class="waves-effect waves-light btn blue tooltipped pulse" data-position="bottom" data-delay="50" data-tooltip="Переходя по данной ссылке вы подтверждаете, что вам исполнилось 18 лет и вы осознаёте возможные финансовые риски при игре на ставках." href="<?php global $filelink; echo $filelink ?>"><i class="material-icons left">launch</i> Перейти на зеркало 1xBet</a></div>
+				<div id="ways" class="section scrollspy">
+					<h4>Способы ввода и вывода</h4>
+					<p class="flow-text">У букмекера 1хбет присутствует огромное количество <b>способов пополнения</b>: начиная от электронных кошельков, и заканчивая банковскими переводами.</p>
+						  <div class="carousel carousel-slider" data-indicators="true">
+						  	<a class="carousel-item" href="#one!"><img src="img/slider/1.jpg"></a>
+							<a class="carousel-item" href="#two!"><img src="img/slider/2.jpg"></a>
+							<a class="carousel-item" href="#three!"><img src="img/slider/3.jpg"></a>
+						  </div>
+				</div>
+				<div id="bonus" class="section scrollspy">
+					<h4>Бонус при первом пополнении счёта</h4>
+					<p class="flow-text">Зеркало 1хбет дарит каждому новому игроку <b>до 5000 рублей</b> на баланс счета при <b>первом пополнении</b>. Хотите удвоить свой первый взнос? Тогда регистрируйтесь прямо сейчас по ссылке ниже</p>
+					<div class="center-align"><a class="waves-effect waves-light btn blue tooltipped pulse" data-position="bottom" data-delay="50" data-tooltip="Переходя по данной ссылке вы подтверждаете, что вам исполнилось 18 лет и вы осознаёте возможные финансовые риски при игре на ставках." href="<?php global $filelink; echo $filelink ?>"><i class="material-icons left">launch</i> Перейти на зеркало 1xBet</a></div>
+				</div>
+				<h4>Поделись страницей в соц.сетях</h4>
+								<script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="vkontakte,odnoklassniki,gplus,twitter" data-counter=""></div>
+			</div>
+			<div class="col m4 l3 hide-on-small-only">
+			<div class="toc-wrapper">
+				<p><a class="carbon-text" href="<?php global $filelink; echo $filelink ?>"><img class="responsive-img" src="img\refimg.gif" alt=""></a></p>
+					<ul class="section table-of-contents">
+						<li><a href="#registration">Регистрация на 1xBet</a></li>
+						<li><a href="#advantages">Преимущества</a></li>
+						<li><a href="#rules">Правила регистрации</a></li>
+						<li><a href="#ways">Способы пополнения и вывода</a></li>
+						<li><a href="#bonus">Бонус 5000 рублей</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+  </main>
+
+  <div class="fixed-action-btn back-to-top hide-on-small-only">
+    <a class="btn-floating btn-large blue darken-1 tooltipped" data-position="left" data-delay="50" data-tooltip="Вверх">
+      <i class="large material-icons">keyboard_arrow_up</i>
+    </a>
+  </div>
+ 
+  <footer class="page-footer blue darken-1">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Рабочее зеркало 1xBet</h5>
+                <p class="grey-text text-lighten-4">Администрация сайта предоставляет информацию лишь для ознакомления и не несёт ответственности за действия посетителей. Мы не принимаем ставки и платежи и не являемся официальными представителями букмекерской конторы 1xBet.</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">18+</h5>
+                <p class="light">Просматривая данный сайт вы подтверждаете, что вам испольнилось 18 лет и вы полностью осознаёте все риски, с которыми можете столкнуться, делая ставки на спорт в букмекерских конторах.</p>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            Данный сайт не является официальным сайтом букмекерской конторы 1XBet
+            <a class="grey-text text-lighten-4 right" href="<?php global $filelink; echo $filelink ?>">Зеркало 1XBet</a>
+            </div>
+          </div>
+        </footer>
+	
+	  <!-- Compiled and minified JavaScript -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/mater	ialize/0.100.2/js/materialize.min.js"></script>
+	<script src="js/responsive.js"></script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=105672436', 'ym');
+
+    ym(105672436, 'init', {ssr:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/105672436" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
