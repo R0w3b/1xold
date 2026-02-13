@@ -8,7 +8,7 @@
 	<!-- Favicon -->
 	<link rel="icon" href="img/favicon.png" type="image/png" sizes="32x32">
 	<title>1xBet рабочее зеркало на сегодня</title>
-	<meta name="yandex-verification" content="c16cef8b433ab42f" />
+	<meta name="yandex-verification" content="a74c53751f33171b" />
 	<!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
   <link rel="stylesheet" href="css/style.css">
@@ -44,7 +44,7 @@ document.onmouseup = norightclick;
 </script>
 <!-- PHP Подключение импорта ссылки из файла -->
 <?php 
-$filelink = file_get_contents('https://1xbet.vercel.app/kod.txt');
+$filelink = file_get_contents('https://1xbets.vercel.app/kod.txt');
 ?>
 
 <!-- Прелоадер Circle Blue -->
